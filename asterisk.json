@@ -26,7 +26,7 @@
 				"answer": { "type": "date" },
 				"end": { "type": "date" },
 				"duration": { "type": "float" },
-				"billsec": { "type": "float" }
+				"billsec": { "type": "float" },
 				"waiting": { "type": "float" }
 			}
 		}
