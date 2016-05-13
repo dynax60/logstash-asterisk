@@ -1,6 +1,6 @@
 # logstash-asterisk
 
-logstash-asterisk is a sample [Logstash](https://www.elastic.co/products/logstash) configuration file for parsing Asterisk's CDR custom file and send it to [Elasticsearch](https://www.elastic.co/products/elasticsearch).
+logstash-asterisk is a sample of [Logstash](https://www.elastic.co/products/logstash) configuration file for parsing Asterisk's CDR custom file and to send it to [Elasticsearch](https://www.elastic.co/products/elasticsearch).
 
 ## Requirements
 * Queues name pattern in Asterisk like NAME_NNNN (for example, SALES_3102)
